@@ -232,8 +232,7 @@ a {
 
 .soc-list {
   display: flex;
-  gap: 56px;
-  justify-content: start;
+  justify-content: space-around;
 }
 
 .soc-link {
